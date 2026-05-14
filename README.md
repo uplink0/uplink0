@@ -1,16 +1,43 @@
-## Hi there 👋
 ![Banner](a95328ce-ddf4-4ae0-8092-455e65d5883a.png)
-<!--
-**uplink0/uplink0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Привет, я Иван Кожевников
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Junior DevOps-инженер** с опытом технической поддержки и активными pet-проектами в области контейнеризации, мониторинга и автоматизации.
+
+---
+
+## 🛠 Технологии
+
+| Область | Технологии |
+|---------|-------------|
+| **Контейнеризация** | Docker, Docker Compose |
+| **Мониторинг** | Prometheus, Grafana, cAdvisor, Node Exporter |
+| **CI/CD** | GitHub Actions (изучаю, есть рабочий пайплайн) |
+| **IaC** | Terraform (базово), Ansible (базово) |
+| **ОС** | Linux (Ubuntu/CentOS), Windows Server |
+| **Сети** | TCP/IP, DNS, DHCP, VPN |
+| **Скрипты** | Bash, Python (начальный) |
+| **Облака** | Yandex Cloud (ВМ, сети) |
+| **Версионирование** | Git, GitHub |
+
+---
+
+## 📌 Проекты
+
+- **[NWD](https://github.com/uplink0/NWD)** — Мониторинг-стек: Docker Compose + Prometheus + Grafana + cAdvisor. Сбор метрик хоста и контейнеров.
+- **[my-first-deploy](https://github.com/uplink0/my-first-deploy)** — Flask-приложение в Docker + CI/CD пайплайн в GitHub Actions.
+- *Другие проекты в процессе...*
+
+---
+
+## 📫 Как связаться
+
+- **Email:** ikosay12@gmail.com
+- **Telegram:** @ваш_логин (если есть — укажите)
+- **HH.ru:** [ссылка на резюме] (добавьте, когда будет готово)
+
+---
+
+## 🎯 Цели
+
+Развиваться в DevOps, углублять знания Kubernetes, CI/CD, облачных платформ и инфраструктуры как код. Открыт для стажировок и Junior-позиций.
