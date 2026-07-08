@@ -24,7 +24,7 @@
 
 ## 📌 Проекты
 
-- **[NWD](https://github.com/uplink0/NWD)** — Мониторинг-стек: Docker Compose + Prometheus + Grafana + cAdvisor. Сбор метрик хоста и контейнеров.
+- **[Time-app](https://github.com/uplink0/Time-app)** — Мониторинг-стек: Docker Compose + Prometheus + Grafana + cAdvisor. Сбор метрик хоста и контейнеров.
 - **[my-first-deploy](https://github.com/uplink0/my-first-deploy)** — Flask-приложение в Docker + CI/CD пайплайн в GitHub Actions.
 - *Другие проекты в процессе...*
 
