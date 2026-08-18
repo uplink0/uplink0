@@ -32,7 +32,7 @@
 
 ## 📫 Как связаться
 
-- **Email:** ikosay12@gmail.com
+- **Email:** oneslashed@gmail.com
 
 ---
 
